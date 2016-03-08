@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false" >
+
+    <item
+        android:drawable="@drawable/songthumbnail1"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/songthumbnail2"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/songthumbnail3"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/songthumbnail4"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/songthumbnail5"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/songthumbnail6"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/songthumbnail7"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/songthumbnail8"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/songthumbnail9"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/songthumbnail10"
+        android:duration="100"/>
+
+</animation-list>
